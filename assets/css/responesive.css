@@ -106,6 +106,9 @@
 }
 
 @media (max-width: 477px) {
+    #narbar .cart-total {
+        display: none;
+    }
     #section-p1 {
         padding: 20px;
     }
